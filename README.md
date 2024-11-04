@@ -83,7 +83,7 @@ Integração de Microserviços: Em breve, planejamos integrar microserviços em 
 #### Configuração
 1. **Clone o Repositório**
     ```bash
-    git clone https://github.com/heKaiqueToschi/APIChurnAnalytics.git
+    git clone https://github.com/Flores-Carlos/ChurnAnalytics.git
     cd APIChurnAnalytics
     ```
 
